@@ -1,2 +1,145 @@
 # INCOME-TAX-DEPARTMENT-OF-INDIA
 this  code make you clone to original income tax department
+<!DOCTYPE html >
+<html>
+<head>
+<title>Income Tax Department</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" media="screen,projection" href="E:\HTML Project\css\style_screen.css" />
+</head>
+<body>
+<div class="page-container-1">
+  <div class="navflag-container">
+    <div class="navflag">
+      <ul>
+        <li><a href="#"><img class="img-navflag" src="img/india flag.png" alt="flag of india" /></a></li>
+      </ul>
+    </div>
+    
+  </div>
+  <div class="nav1-container">
+    <div class="nav1">
+      <ul>
+        <li><a href="#">About-Us</a></li>
+        <li><a href="#">Feedback</a></li>
+        <li><a href="#">Accessbility</a></li>
+        <li><a href="#">Contact-Us</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="site-name">
+    <p class="title"><a href="https://www.incometaxindia.gov.in/" target="_blank">Income Tax</a></p>
+    <p class="subtitle"><a href="https://www.incometaxindia.gov.in/" target="_blank">Department of India</a></p>
+  </div>
+  <div class="site-slogan-container">
+    <div class="site-slogan">
+      <p class="title">INCOME TAX</p>
+      <p class="subtitle">Department of India.</p>
+    </div>
+  </div>
+  <div><img class="img-header" src="img/header.png" alt=""/></div>
+  <div class="nav2">
+    <ul>
+      <li><a href="https://www.incometax.gov.in/iec/foportal/" class="selected">Home</a></li>
+    </ul>
+    <marquee>Order u/s 119 of The Income Tax Act, 1961 on issue of certificates for lower rate/nil deduction/collection of TDS or TCS u/s 195, 197 and 206C(9)</marquee>
+
+  </div>
+  <div class="buffer"></div>
+  <div class="nav3">
+    <ul>
+      <li class="title">Login</li>
+      <div class="login">
+        <a href="E:\HTML Project\index.html" target="_blank">click here for login</a>
+        <p><a href="E:\HTML Project\index.html"class="forgot" target="_blank">forgot password?</a></p>
+      </div>
+      <div class="shadow"></div>
+    </ul>
+    <p class="sidebar-maintitle">Solved Question</p>
+
+    <p class="sidebar-title-noshade">Questions?</p>
+    <div class="sidebar-txtbox-noshade">
+      <p>This portal has all the tools for filing tax returns and related information. My compliments to IT Team for constantly upgrading it. I am happy that many more salaried tax payers like me can file their returns online with honesty and transparency and without fear of human discrimination. Thank you. 11-10-2022</p>
+    </div>
+    <p class="sidebar-maintitle"></p>
+    <div class="sidebar-txtbox-noshade">
+      <p></p>
+    </div>
+  </div>
+  <div class="content1">
+    <div class="content1-pagetitle">News and Updates</div>
+    <div class="content1-container line-box">
+      <div class="content1-container-1col">
+        <p class="content-title-noshade-size3">Basic overview</p>
+        <p class="content-subtitle-noshade-size1">What is ITR?</p>
+        <div class="content-txtbox-noshade">
+          <p>An Income tax return (ITR) is a form used to file information about your income and tax to the Income Tax Department. The tax liability of a taxpayer is calculated based on his or her income. In case the return shows that excess tax has been paid during a year, then the individual will be eligible to receive a tax refund from the Income Tax Department.
+
+As per the income tax laws, the return must be filed every year by an individual or business that earns any income during a financial year.</p>
+          <p class="readmore">| 07.04.2022 | <a href="https://www.hdfclife.com/insurance-knowledge-centre/about-life-insurance/what-is-income-tax-return">Read more</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="content1-container">
+      <div class="content1-container-3col-left">
+        <p class="content-title-noshade-size3">Lockdown</p>
+        <p class="content-subtitle-noshade-size1">karnatka</p>
+        <div class="content-txtbox-noshade">
+          <p>On account of the complete lockdown imposed by Government of Karnataka on movement of people, the e-Filing Call Center is temporarily impacted.</p>
+        </div>
+      </div>
+      <div class="content1-container-3col-middle">
+        <p class="content-title-noshade-size3">Be Safe</p>
+        <p class="content-subtitle-noshade-size1">Bihar</p>
+        <div class="content-txtbox-noshade">
+          <p>Dear Taxpayers, Considering COVID-19, we have taken precautionary steps demanded by the situation. Our Helpdesk shall remain open with reduced staff, We urge you to stay safe.</p>
+        </div>
+      </div>
+      <div class="content1-container-3col-right">
+        <p class="content-title-noshade-size3">Finance</p>
+        <p class="content-subtitle-noshade-size1">Delhi</p>
+        <div class="content-txtbox-noshade">
+          <p>Finance Minister announces several relief measures relating to Statutory and Regulatory compliance matters across Sectors in view of COVID-19 outbreak For further details, click here
+</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="sidebar">
+    <p class="sidebar-maintitle">Infobar</p>
+    <h3 class="title">Quick Links</h3>
+        <div id="hpage_quicklinks">
+          <ul class="clear">
+            <li><a href="https://eportal.incometax.gov.in/iec/foservices/#/pre-login/instant-e-pan" target="_blank">Instant E-PAN</a></li> <br>
+            <li><a href="https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar" target="_blank">Link Adhar</a></li> <br>
+            <li><a href="#">Submit Forms</a></li> <br>
+            <li><a href="https://eportal.incometax.gov.in/iec/foservices/#/pre-login/itrStatus" target="_blank">ITR Status</a></li> <br>
+          </ul>
+        </div>
+    <p class="sidebar-title-noshade"></p>
+    <h3 class="title">FAQ</h3>
+        <div id="hpage_quicklinks">
+          <ul class="clear">
+            <li><a href="https://www.incometax.gov.in/iec/foportal//help/all-topics/e-filing-services/filing-your-return#faqs-on-ais-(annual-information-statement)" target="_blank">General FAQs</a></li> <br>
+            <li><a href="#">FAQs for Senior Citizen's</a></li> <br>
+            <li><a href="#">FAQs on filing the return</a></li> <br>
+            <li><a href="#">FAQs on Tax Deducted</a></li>
+          </ul>
+        </div>
+    <p class="sidebar-title-noshade">Questions?</p>
+    <div class="sidebar-txtbox-noshade">
+      <p>My IT returns for the last 10 years ever since this was conceived. Year after year, I can find that the experience of using this website is becoming better and better. Really impressed with the way this initiative is being undertaken. Congratulations. 08-11-2022</p>
+    </div>
+    <p class="sidebar-maintitle"></p>
+    <div class="sidebar-txtbox-noshade">
+      <p></p>
+    </div>
+  </div>
+  <div class="footer">
+    <p><b>  Copyright &copy; <a href="https://www.incometax.gov.in/iec/foportal/" target="_blank">2022 Income Tax Department, Ministry of Finance, Government of India </a>| All Rights Reserved</b></p>
+    <p><a href="https://www.incometaxindia.gov.in/" target="_blank">Income Tax Department</a></p>
+  </div>
+</div>
+</body>
+</html>
